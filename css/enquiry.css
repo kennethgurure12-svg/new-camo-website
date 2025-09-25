@@ -53,3 +53,35 @@
     background: #111;
     color: #fff;
   }
+  header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #222;
+  color: #fff;
+}
+
+header .logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+header nav {
+  display: flex;
+  gap: 20px;
+}
+
+header nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 10px;
+  transition: background 0.3s;
+}
+
+header nav a:hover,
+header nav a.active {
+  background-color: #fff;
+  color: #222;
+  border-radius: 4px;
+}
