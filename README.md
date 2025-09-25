@@ -168,9 +168,9 @@ GitHub repository with regular commits and a changelog.
 
 Timeline and Milestones
 Milestone	Description	Status
-Part 1	Initial HTML structure, navigation, and product pages	✅ Complete
-Part 2	External CSS, styling for desktop, responsive design, changelog updates	✅ Complete
-Part 3	Advanced functionality (e.g., shopping cart, form handling, validation)	⏳ Pending
+Part 1	Initial HTML structure, navigation, and product pages	
+Part 2	External CSS, styling for desktop, responsive design, changelog updates
+Part 3	Advanced functionality (e.g., shopping cart, form handling, validation)	
 Part 2 Details
 1. Working Through Feedback from Part 1
 
@@ -230,6 +230,11 @@ Improved typography and product card layouts.
 Added hover effects for buttons and navigation links.
 
 Documented changes in README.md as required.
+
+GitHub Repository Link
+
+You can view the full project and source code on GitHub:
+https://github.com/kennethgurure12-svg/new-camo-website 
 
 References
 
