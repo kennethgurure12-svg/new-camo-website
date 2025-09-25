@@ -132,3 +132,109 @@ GitHub Docs. (n.d.). About README files. Retrieved from https://docs.github.com/
 
 FreeCodeCamp. (n.d.). Responsive Web Design Principles. Retrieved from https://www.freecodecamp.org/
 
+Part 2:
+New Camo Website
+Name: Kenneth Gurure
+Student Number: ST10448980
+
+
+
+
+Project Overview
+
+The New Camo Website is a fashion-focused e-commerce style project showcasing camo-themed clothing (hoodies, t-shirts, jackets). It demonstrates the application of web development principles, including HTML, CSS, responsive design, and GitHub repository management.
+
+Goals and Objectives
+
+Build a functional and visually appealing website.
+
+Apply CSS for consistent design and layout.
+
+Ensure the website is responsive across desktop, tablet, and mobile devices.
+
+Practice version control and collaboration skills using GitHub.
+
+Key Features and Functionality
+
+Homepage with navigation bar and product listings.
+
+Product cards with images, descriptions, and “Add to Cart” buttons.
+
+Linked CSS stylesheets for unified design.
+
+Responsive layout using Flexbox/Grid and media queries.
+
+GitHub repository with regular commits and a changelog.
+
+Timeline and Milestones
+Milestone	Description	Status
+Part 1	Initial HTML structure, navigation, and product pages	✅ Complete
+Part 2	External CSS, styling for desktop, responsive design, changelog updates	✅ Complete
+Part 3	Advanced functionality (e.g., shopping cart, form handling, validation)	⏳ Pending
+Part 2 Details
+1. Working Through Feedback from Part 1
+
+Corrected navigation bar links to ensure consistency across all pages.
+
+Separated inline styles into an external stylesheet (style.css).
+
+Improved product layout using Flexbox for desktop views.
+
+2. CSS Styling for Desktop Solution
+
+Created css/style.css and linked to all HTML files.
+
+Established base styles (font-family, color scheme, reset margins/padding).
+
+Applied typography styling (headers, paragraphs, and buttons).
+
+Structured layouts with Flexbox for product sections.
+
+Styled buttons with hover effects and interactive feedback.
+
+3. Responsive Design
+
+Added breakpoints for desktop (1024px+), tablet (768px–1023px), and mobile (≤767px).
+
+Implemented single-column layout for smaller screens.
+
+Adjusted font sizes and spacing with relative units (em, rem, %).
+
+Made images responsive using max-width: 100% and height: auto.
+
+Site Map
+
+index.html (Homepage)
+
+about.html (About page)
+
+enquiry.html (Enquiry form page)
+
+contact.html (Contact page)
+
+shop.html (Product listing page)
+
+cart.html (Shopping cart page – upcoming in Part 3)
+
+Changelog
+Part 2 Updates
+
+Added style.css external stylesheet.
+
+Applied consistent navigation bar styling across all pages.
+
+Implemented responsive design with media queries.
+
+Improved typography and product card layouts.
+
+Added hover effects for buttons and navigation links.
+
+Documented changes in README.md as required.
+
+References
+
+MDN Web Docs. (2025). CSS: Cascading Style Sheets. Retrieved from: https://developer.mozilla.org/
+
+W3Schools. (2025). HTML & CSS Tutorials. Retrieved from: https://www.w3schools.com/
+
+FreeCodeCamp. (2025). Responsive Web Design Principles. Retrieved from: https://www.freecodecamp.org/
