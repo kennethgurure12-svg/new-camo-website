@@ -24,7 +24,7 @@ Provide a simple and modern clothing website.
 
 Demonstrate the use of HTML, CSS, and responsive design techniques.
 
-Include interactive features such as a shopping cart.
+
 
 Build professional skills in GitHub repository management, version control, and project documentation.
 
@@ -36,7 +36,7 @@ Navigation bar with multiple pages (Home, About, Contact, Enquiry).
 
 Product listings with images, prices, and “Add to Cart” buttons.
 
-A shopping cart feature to view selected items.
+
 
 Consistent styling via external CSS.
 
@@ -106,7 +106,7 @@ Applied base styles (fonts, colors, margins, padding).
 
 Added typography styles for consistency.
 
-Used Flexbox and CSS Grid for product layout and page structure.
+Used CSS Grid for product layout and page structure.
 
 Applied hover and focus effects for interactive elements.
 
