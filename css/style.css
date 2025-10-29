@@ -355,4 +355,20 @@ body {
   footer h3, footer h4 {
     margin-bottom: 10px;
   }
-  
+  /* Navbar */
+nav {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+/* Lightbox overlay */
+.lightbox-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.8);
+    z-index: 2000; /* above navbar */
+}
