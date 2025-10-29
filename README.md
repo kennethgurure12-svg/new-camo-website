@@ -244,4 +244,98 @@ MDN Web Docs. (2025). CSS: Cascading Style Sheets. Retrieved from: https://devel
 W3Schools. (2025). HTML & CSS Tutorials. Retrieved from: https://www.w3schools.com/
 
 FreeCodeCamp. (2025). Responsive Web Design Principles. Retrieved from: https://www.freecodecamp.org/
->>>>>>> 4b5eafde08709df684e47f9a57da79f3c1bdac55
+
+New Final Improvemnets
+Website Improvements & Features
+1. SEO Enhancements
+
+Added <meta> tags for description and keywords on all pages.
+
+Appropriate page titles for better search engine visibility.
+
+2. Navigation & UX
+
+Sticky, responsive navigation bar that highlights the active page.
+
+Hover effects on links and buttons for better interactivity.
+
+Buttons and links have transitions for smooth visual feedback.
+
+3. Home Page
+
+Hero image section with proper styling.
+
+About and Collections sections clearly structured with call-to-action buttons.
+
+Animated fade-in product cards for a more dynamic look.
+
+4. About Page
+
+Structured history, vision, mission sections.
+
+Team section with hover effects and circular profile images.
+
+Improved typography and layout for readability.
+
+5. Shop Page
+
+Product cards with Add to Cart buttons.
+
+Interactive cart functionality:
+
+Add/remove items
+
+View total price
+
+Clear cart
+
+Stored in localStorage for persistence
+
+Ready for future e-commerce integration.
+
+Optional image pop-up (lightbox) for product images.
+
+6. Enquiry Form
+
+Added a form validation script: prevents submission if required fields are empty.
+
+Shows custom “Thank You” message on submission.
+
+Redirects users to the home page after submission.
+
+
+7. Contact Page
+
+Embedded Google Maps iframe showing store locations.
+
+Contact form with validation and thank you/redirect functionality.
+
+Styled form inputs and buttons for clarity and usability.
+
+
+8. UI & Styling
+
+Consistent color scheme and button styling across all pages.
+
+Rounded corners, shadows, and hover effects for modern aesthetics.
+
+Responsive layouts for different screen sizes.
+
+
+9. Interactive Features
+
+Cart modal and product hover effects.
+
+Form validation for both enquiry and contact forms.
+
+Lightbox-ready images for better product viewing.
+
+Animations for cards fading in and hover scaling.
+
+10. Project Management & Documentation
+
+Changelog and commit tracking for version history.
+
+GitHub repository link included.
+
+References and credits listed in README file.
